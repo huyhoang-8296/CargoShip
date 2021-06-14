@@ -1,0 +1,16 @@
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.csproj.AssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.Form1.resources
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.Properties.Resources.resources
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.csproj.GenerateResource.cache
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.AssemblyInfoInputs.cache
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.AssemblyInfo.cs
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.exe
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.deps.json
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.runtimeconfig.json
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.runtimeconfig.dev.json
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.dll
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\bin\Debug\netcoreapp3.1\CargoShip2.pdb
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.dll
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.pdb
+C:\Users\Huy Hoang\source\repos\Cargo\CargoShip2\CargoShip2\obj\Debug\netcoreapp3.1\CargoShip2.genruntimeconfig.cache

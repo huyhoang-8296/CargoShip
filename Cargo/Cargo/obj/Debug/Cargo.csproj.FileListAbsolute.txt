@@ -1,0 +1,7 @@
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\bin\Debug\Cargo.exe.config
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\bin\Debug\Cargo.exe
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\bin\Debug\Cargo.pdb
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\obj\Debug\Cargo.csproj.AssemblyReference.cache
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\obj\Debug\Cargo.csproj.CoreCompileInputs.cache
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\obj\Debug\Cargo.exe
+C:\Users\Huy Hoang\source\repos\Cargo\Cargo\obj\Debug\Cargo.pdb

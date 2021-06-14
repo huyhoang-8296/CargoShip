@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShip2", "CargoShip2\CargoShip2.csproj", "{330982A6-666C-400C-996D-4F4EACB80DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330982A6-666C-400C-996D-4F4EACB80DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330982A6-666C-400C-996D-4F4EACB80DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330982A6-666C-400C-996D-4F4EACB80DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330982A6-666C-400C-996D-4F4EACB80DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D1CAFF-47E3-4535-94E4-D1289FE8E857}
+	EndGlobalSection
+EndGlobal
